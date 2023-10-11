@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Snake_N_Ladder_Game" />
+        <module name="StackOverflow" />
+        <module name="Car_Rental_System" />
+        <module name="Library_Management_System" />
+        <module name="Tic_Tac_Toe_Game" />
+        <module name="Book_My_Show" />
+        <module name="Hotel_Management_System" />
+        <module name="Chess_Game" />
+        <module name="Parking_Lot" />
+        <module name="Locker_Management_System" />
+        <module name="Cab_Booking_Service" />
+        <module name="ATM" />
+        <module name="Elevator_System" />
+        <module name="Amazon_Shopping_Website" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

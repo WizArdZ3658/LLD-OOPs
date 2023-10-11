@@ -1,0 +1,18 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÇªÁ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“Ô¬‡
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ú­¡ùÿÿÿÿ
+œ
+java:S1186#"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦¦ÿ¥ùÿÿÿÿ
+O
+java:S1172#"4Remove these unused method parameters "card", "pin".(¦¦ÿ¥ùÿÿÿÿ
+C
+java:S1068"(Remove this unused "card" private field.(¿§÷ûÿÿÿÿ
+=
+java:S1068"'Remove this unused "pin" private field.(©´Š‹
+J
+java:S1068"/Remove this unused "cardNetwork" private field.(Ôª¹ÿüÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ô¬‡

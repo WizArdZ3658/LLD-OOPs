@@ -1,0 +1,11 @@
+
+b	java:S116"NRename this field "CVV" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ìà$
+o	java:S116"URename this field "CardNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü“·²ıÿÿÿÿ
+j
+java:S1104"TMake userName a static final constant or non-public and provide accessors if needed.(©¸á
+d
+java:S1104"OMake CVV a static final constant or non-public and provide accessors if needed.(´ìà$
+l
+java:S1104"VMake expiryDate a static final constant or non-public and provide accessors if needed.(ª›
+q
+java:S1104"VMake CardNumber a static final constant or non-public and provide accessors if needed.(ü“·²ıÿÿÿÿ

@@ -1,0 +1,15 @@
+
+\
+java:S1118	":Add a private constructor to hide the implicit public one.(âÙÓ¿ıÿÿÿÿ8œ˜¨±‰1
+q
+java:S1172"TRemove these unused method parameters "title", "author", "genre", "publicationDate".(Â¡à€8Õ»©±‰1
+v
+java:S1172"TRemove these unused method parameters "title", "author", "genre", "publicationDate".(Ü—”ëşÿÿÿÿ8¨Êí±‰1
+v
+java:S1172"TRemove these unused method parameters "title", "author", "genre", "publicationDate".(Ãª‚êúÿÿÿÿ8ªÊí±‰1
+
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "books".(èï·Ÿøÿÿÿÿ8Ù»©±‰1
+
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "books".(èï·Ÿøÿÿÿÿ8¬Êí±‰1
+
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "books".(èï·Ÿøÿÿÿÿ8¬Êí±‰1
