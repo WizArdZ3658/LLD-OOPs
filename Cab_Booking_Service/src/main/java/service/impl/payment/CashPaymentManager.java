@@ -5,12 +5,10 @@ import service.interfaces.PaymentService;
 public class CashPaymentManager implements PaymentService {
 
     @Override
-    public Boolean validatePayment() {
-        return null;
+    public void validatePayment() {
     }
 
     @Override
-    public Boolean initiatePayment() {
-        return null;
+    public void initiatePayment() {
     }
 }

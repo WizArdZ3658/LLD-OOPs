@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Snake_N_Ladder_Game" />
         <module name="StackOverflow" />
+        <module name="Pendency_System" />
         <module name="Car_Rental_System" />
         <module name="Library_Management_System" />
         <module name="Tic_Tac_Toe_Game" />
