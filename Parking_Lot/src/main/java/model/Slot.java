@@ -10,5 +10,4 @@ public class Slot {
     private String slotNumber;
     private Integer floorNumber;
     private SlotStatus status;
-    private Ticket ticket;
 }
