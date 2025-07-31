@@ -23,6 +23,16 @@
         <module>Tic_Tac_Toe_Game</module>
         <module>StackOverflow</module>
         <module>Pendency_System</module>
+        <module>Twitter</module>
+        <module>Splitwise</module>
+        <module>Meeting_Scheduler</module>
+        <module>Order_Inventory_Management_System</module>
+        <module>Customer_Issue_Resolution_System</module>
+        <module>Food_Ordering_Rating_System</module>
+        <module>Text_Editor</module>
+        <module>Runnable_Callable_Experiments</module>
+        <module>Rate_Limiter</module>
+        <module>App_Version_Management_System</module>
     </modules>
 
     <packaging>pom</packaging>

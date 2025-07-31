@@ -9,20 +9,33 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Snake_N_Ladder_Game" />
         <module name="StackOverflow" />
-        <module name="Pendency_System" />
-        <module name="Car_Rental_System" />
-        <module name="Library_Management_System" />
+        <module name="Splitwise" />
+        <module name="Order_Inventory_Management_System" />
+        <module name="Twitter" />
         <module name="Tic_Tac_Toe_Game" />
-        <module name="Book_My_Show" />
+        <module name="Customer_Issue_Resolution_System" />
         <module name="Hotel_Management_System" />
-        <module name="Chess_Game" />
         <module name="Parking_Lot" />
         <module name="Locker_Management_System" />
+        <module name="Rate_Limiter" />
+        <module name="Meeting_Scheduler" />
+        <module name="Pendency_System" />
+        <module name="Car_Rental_System" />
+        <module name="Runnable_Callable_Experiments" />
+        <module name="Library_Management_System" />
+        <module name="Food_Ordering_Rating_System" />
+        <module name="Book_My_Show" />
+        <module name="Chess_Game" />
+        <module name="App_Version_Management_System" />
         <module name="Cab_Booking_Service" />
         <module name="ATM" />
         <module name="Elevator_System" />
+        <module name="Text_Editor" />
         <module name="Amazon_Shopping_Website" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Chess" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
