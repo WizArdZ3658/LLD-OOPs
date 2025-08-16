@@ -33,6 +33,7 @@
         <module>Runnable_Callable_Experiments</module>
         <module>Rate_Limiter</module>
         <module>App_Version_Management_System</module>
+        <module>Redbus</module>
     </modules>
 
     <packaging>pom</packaging>
